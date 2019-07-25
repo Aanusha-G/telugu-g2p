@@ -1,5 +1,5 @@
-# bengali-g2p
-Python based G2P module for Bangla
+# telugu-g2p
+Python based G2P module for Telugu
 
 ```
 usage: run_g2p.py [-h] [-i] [-f FILEPATH] [-t] [--ipa] [--xsampa]
@@ -22,7 +22,3 @@ This is a work in progress. The script maps graphemes to an intermediate xipa no
 I've made up, along with a few archiphonemes which are later resolved to 
 actual phonemes once the rules are all in place. Use the --ipa and --xsampa flags to get
 output in the respective notations.
-
-
-
-Current accuracy metrics: 38/52 = 73% 
