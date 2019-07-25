@@ -9,7 +9,7 @@ optional arguments:
   -h, --help            show this help message and exit
   -i, --interactive     read tokens from standard input (type "stop" or "ctrl+c" to stop)
   -f FILEPATH, --file FILEPATH
-                        path to file containing tokens in Bengali
+                        path to file containing tokens in Telugu
   -t, --run-tests       Specify whether unit tests should be run. This is set
                         to true by default if input file is not specified.
   --ipa                 return IPA transcriptions
